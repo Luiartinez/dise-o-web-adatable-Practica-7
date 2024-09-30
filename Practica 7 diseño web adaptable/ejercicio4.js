@@ -5,11 +5,10 @@ const libro = {
   };
   
   //agregar una nueva propiedad
-  libro.año=16;
+  libro.año = 1616;
   
   //modificar propiedad existente
   libro.autor="cervantes";
   
   //ver resultado
   console.log(libro);
-  
